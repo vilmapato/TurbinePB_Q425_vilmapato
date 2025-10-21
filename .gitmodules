@@ -1,3 +1,6 @@
 [submodule "RNG Game/Guessing-Game"]
 	path = RNG Game/Guessing-Game
 	url = https://github.com/vilmapato/Guessing_game.git
+[submodule "RNG Game/Hello_World"]
+	path = RNG Game/Hello_World
+	url = https://github.com/vilmapato/hello_world.git
