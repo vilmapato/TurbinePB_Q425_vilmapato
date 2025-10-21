@@ -4,3 +4,6 @@
 [submodule "RNG Game/Hello_World"]
 	path = RNG Game/Hello_World
 	url = https://github.com/vilmapato/hello_world.git
+[submodule "RNG Game/Counter"]
+	path = RNG Game/Counter
+	url = https://github.com/vilmapato/counter_in_rust.git
