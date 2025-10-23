@@ -7,3 +7,6 @@
 [submodule "RNG Game/Counter"]
 	path = RNG Game/Counter
 	url = https://github.com/vilmapato/counter_in_rust.git
+[submodule "wardrobe_tracker"]
+	path = wardrobe_tracker
+	url = https://github.com/vilmapato/wardrobe_tracker
